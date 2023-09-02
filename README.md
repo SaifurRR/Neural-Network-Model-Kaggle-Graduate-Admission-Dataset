@@ -1,4 +1,4 @@
-# Neural-Network-Model-Kaggle-Graduate-Admission-Dataset-
+# Neural-Network-Model-Kaggle-Graduate-Admission-Dataset
 
 Kaggle Graduate Admission dataset:
 
